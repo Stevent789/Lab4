@@ -1,0 +1,49 @@
+h1.top {
+  color: blue;
+  text-align: center;
+}
+
+body.main {
+  background-color:tan;
+}
+
+div.yum {
+  margin: auto;
+  text-align: center;
+  /*border: solid black 2px;*/
+}
+.baconpic {
+  width: 500px;
+  float: left;
+  box-shadow: 2px 2px 2px 2px;
+}
+
+div.textquestion {
+  font-size: 20px;
+  text-indent: 70px;
+}
+
+div.radioquestion {
+  font-size: 20px;
+  text-indent: 70px;
+  padding-top: 50px;
+}
+
+div.selectquestion {
+  font-size: 20px;
+  text-indent: 70px;
+  padding-top: 50px;
+}
+
+footer.foot {
+  text-align: center;
+}
+
+button.submit {
+  margin-left: 500px;
+}
+
+button:hover {
+  background-color: black;
+  color: red;
+}
